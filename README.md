@@ -1,1 +1,1 @@
-Bitte aus dem "start"" Unterordner die index.php starten!
+Bitte aus dem "start" Unterordner die index.php starten!
